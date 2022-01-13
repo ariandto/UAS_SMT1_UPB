@@ -3,9 +3,7 @@
 ### KELAS : TI.21.A.1
 ### NIM :312110149
 ### MATA KULIAH : B.PEMROGRAMAN
-# SOAL
-![GAMBAR 1](screenshot/ss7.png)
-###Berikut Adalah modul & pacakage nya<p>
+# JAWABAN MATKUL BAHASA PEMROGAMAN
 
 Source Code init.py<p>
 ```python
@@ -186,3 +184,44 @@ while True:
         print("Ada yang salah, Silahkan cek kembali.")
 ```
 
+Source Code view_nilai.py
+```python
+# Menampilkan data
+from model.daftar_nilai import data
+
+def lihat_data():
+    print("Daftar Nilai:")
+    print("===================================================================")
+    print("| No |      Nama      |    NIM    | Tugas |  UTS  |  UAS  | Akhir |")
+    print("===================================================================")
+    if data.keys():
+        no = 1
+        for tabel in data.values():
+            print("| {0:2} | {1:14} | {2:9} | {3:5} | {4:5} | {5:5} | {6:5} |".format
+                (no, tabel[0], tabel[1], tabel[2], tabel[3], tabel[4], tabel[5]))
+            print('-------------------------------------------------------------------')
+            no += 1
+    else:
+        print("=========================TIDAK ADA DATA============================")
+        print("===================================================================")
+```
+
+Output:
+###Berikut Adalah SC nya<p>
+# Kerangka Program
+[Output](https://github.com/ariandto/UAS_SMT1_UPB/blob/main/capture/1.png)
+
+# Tambah Data!
+[Output](https://github.com/ariandto/UAS_SMT1_UPB/blob/main/capture/s1.png)
+
+# Ubah Data!
+[Output](https://github.com/ariandto/UAS_SMT1_UPB/blob/main/capture/s2.png)
+
+# Cari Data!
+[Output](https://github.com/ariandto/UAS_SMT1_UPB/blob/main/capture/s3.png)
+
+# Lihat!
+[Output](https://github.com/ariandto/UAS_SMT1_UPB/blob/main/capture/s4.png)
+
+# Tambah-Hapus!
+[Output](https://github.com/ariandto/UAS_SMT1_UPB/blob/main/capture/s5.png)
