@@ -209,19 +209,19 @@ def lihat_data():
 Output:
 ###Berikut Adalah SC nya<p>
 # Kerangka Program
-[p1](https://github.com/ariandto/UAS_SMT1_UPB/blob/main/capture/1.png)
+[p1](capture/1.png)
 
 # Tambah Data!
-[p2](https://github.com/ariandto/UAS_SMT1_UPB/blob/main/capture/s1.png)
+[p2](capture/s1.png)
 
 # Ubah Data!
-[p3](https://github.com/ariandto/UAS_SMT1_UPB/blob/main/capture/s2.png)
+[p3](s2.png)
 
 # Cari Data!
-[p4](https://github.com/ariandto/UAS_SMT1_UPB/blob/main/capture/s3.png)
+[p4](capture/s3.png)
 
 # Lihat!
-[p5](https://github.com/ariandto/UAS_SMT1_UPB/blob/main/capture/s4.png)
+[p5](s4.png)
 
 # Tambah-Hapus!
-[p6](https://github.com/ariandto/UAS_SMT1_UPB/blob/main/capture/s5.png)
+[p6](capture/s5.png)
