@@ -209,19 +209,19 @@ def lihat_data():
 Output:
 ###Berikut Adalah SC nya<p>
 # Kerangka Program
-[Output](https://github.com/ariandto/UAS_SMT1_UPB/blob/main/capture/1.png)
+[p1](https://github.com/ariandto/UAS_SMT1_UPB/blob/main/capture/1.png)
 
 # Tambah Data!
-[Output](https://github.com/ariandto/UAS_SMT1_UPB/blob/main/capture/s1.png)
+[p2](https://github.com/ariandto/UAS_SMT1_UPB/blob/main/capture/s1.png)
 
 # Ubah Data!
-[Output](https://github.com/ariandto/UAS_SMT1_UPB/blob/main/capture/s2.png)
+[p3](https://github.com/ariandto/UAS_SMT1_UPB/blob/main/capture/s2.png)
 
 # Cari Data!
-[Output](https://github.com/ariandto/UAS_SMT1_UPB/blob/main/capture/s3.png)
+[p4](https://github.com/ariandto/UAS_SMT1_UPB/blob/main/capture/s3.png)
 
 # Lihat!
-[Output](https://github.com/ariandto/UAS_SMT1_UPB/blob/main/capture/s4.png)
+[p5](https://github.com/ariandto/UAS_SMT1_UPB/blob/main/capture/s4.png)
 
 # Tambah-Hapus!
-[Output](https://github.com/ariandto/UAS_SMT1_UPB/blob/main/capture/s5.png)
+[p6](https://github.com/ariandto/UAS_SMT1_UPB/blob/main/capture/s5.png)
